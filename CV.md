@@ -29,6 +29,7 @@ This team consists of:
 - Antton, I am a full time student and currently working part time. My freetime flows with enthusing the brain and the body. I am more than prepared to fully invest my freetime in the coming preject.
 <img src= "./photo_2021-10-15_19-23-04.jpg" width="200"/>
 - Sasu
+<img src="https://media-exp1.licdn.com/dms/image/C4E03AQFNaxeGxPVE2A/profile-displayphoto-shrink_800_800/0/1617624888188?e=1639612800&v=beta&t=IEX41N8wX3FR3DGAQ_tUI30x5ISwa_ts6pjWS3dzlk8" width="200"/>
 - Samuel
 - Juho
 - Janne
