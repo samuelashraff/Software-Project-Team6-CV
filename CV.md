@@ -1,11 +1,11 @@
 # Team 6 CV
 
 **About Us**
-We are a team for you and we are interested in you.
+We are a team of computer science students
 
 
 **Skills**
-We konw how to code
+We know how to code
 
 
 **Interests**
@@ -14,7 +14,7 @@ Code
 
 
 **About Us in depth**
-Team contains
+This team consists of:
 - Antton 
 - Sasu
 - Samuel
