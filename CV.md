@@ -2,7 +2,7 @@
 
 **About Us**
 
-**About Us indepth**
+**About Us indepth**\n
 Antton 
 Sasu
 Samuel
