@@ -2,7 +2,7 @@
 
 **About Us**
 
-We are a team of computer science students
+We are a team of computer science students with proficiencies ranging from Machine Learning to Web Development.
 
 
 **Skills**
@@ -13,7 +13,6 @@ We know how to code
 **Interests**
 
 Code
-
 
 
 **About Us in depth**
