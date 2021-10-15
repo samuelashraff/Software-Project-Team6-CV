@@ -1,25 +1,24 @@
 # Team 6 CV
 
-# About Us
-We are a team for you
-And we are interested in you.
+**About Us**
+We are a team for you and we are interested in you.
 
 
-# Skills
+**Skills**
 We konw how to code
 
 
-# Interests
+**Interests**
 Code
 
 
 
-# About Us in depth
+**About Us in depth**
 Team contains
-Antton 
-Sasu
-Samuel
-Juho
-Janne
-Sami
+- Antton 
+- Sasu
+- Samuel
+- Juho
+- Janne
+- Sami
 
