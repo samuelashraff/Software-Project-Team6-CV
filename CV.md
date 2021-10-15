@@ -1,21 +1,21 @@
 # Team 6 CV
 
-**About Us**
+## About Us
 
 We are a team of computer science students with proficiencies ranging from Machine Learning to Web Development.
 
 
-**Skills**
+## Skills
 
 We know how to code
 
 
-**Interests**
+## Interests
 
 Code
 
 
-**About Us in depth**
+## About Us in depth
 
 This team consists of:
 
