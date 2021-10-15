@@ -34,5 +34,5 @@ This team consists of:
 - Juho
 - Janne
 - Sami
-- <img src= "./IMG_4246 (2).JPG" width="200"/>
+- <img src= "./IMG_4246 (2).JPG" width="2000"/>
 
