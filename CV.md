@@ -16,10 +16,10 @@ Code
 
 **About Us indepth**
 Team contains
-Antton 
-Sasu
-Samuel
-Juho
-Janne
-Sami
+-Antton 
+-Sasu
+-Samuel
+-Juho
+-Janne
+-Sami
 
