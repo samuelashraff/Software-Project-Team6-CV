@@ -5,8 +5,8 @@ We are all-round team consisting of an n-year student, few newcomers and one med
 
 We are looking for a project that fullfills our wide interests. Fullstack and machine learning with touch of neural networks are something that we especially would like to work with. 
 
-We are a team of computer science students with proficiencies ranging from Machine Learning to Web Development.
-
+TLDR;
+-Interested in fullstack + machine learning = mega stack
 
 **Skills**
 
