@@ -29,10 +29,12 @@ This team consists of:
 - Antton, I am a full time student and currently working part time. My freetime flows with enthusing the brain and the body. I am more than prepared to fully invest my freetime in the coming preject.
 <img src= "./photo_2021-10-15_19-23-04.jpg" width="200"/>
 - Sasu
+<img src="https://media-exp1.licdn.com/dms/image/C4E03AQFNaxeGxPVE2A/profile-displayphoto-shrink_800_800/0/1617624888188?e=1639612800&v=beta&t=IEX41N8wX3FR3DGAQ_tUI30x5ISwa_ts6pjWS3dzlk8" width="200"/>
 - Samuel, I am a full-time student currently working part-time as a test automation engineer trainee at Profium. For the past two summers I worked as a software engineer trainee at Digital Living International Oy. My free time consists of either going to the gym or relaxing at home.
 <img src="https://media-exp1.licdn.com/dms/image/C4D03AQFNTshnRUfGjA/profile-displayphoto-shrink_400_400/0/1547990427470?e=1639612800&v=beta&t=es2h2XMu00u2vt8lhmTW0TDOUdDo6gb0Sji7d_mY6uw"
 width="230" height="200"/>
 - Juho
 - Janne
 - Sami
+- <img src= "./IMG_4246 (2).JPG" width="200"/>
 
