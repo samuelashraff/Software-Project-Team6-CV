@@ -35,7 +35,7 @@ This team consists of:
 width="230" height="200"/>
 - Juho, medical professional interested in data and bioinformatics and currently working in pharmaceuticals. Putting up a BSc thesis on Machine Learning and Tensor Factorization Machines in Predicting Preclinical Anti-Cancer Drug Combination Synergy. A football and guitar enthusiast.
 <img src="https://media-exp1.licdn.com/dms/image/C4E03AQG1PL4qJTj0eQ/profile-displayphoto-shrink_400_400/0/1516321807775?e=1640217600&v=beta&t=-rXpeNxMhmnWOUpAXewM84v0KKSIMzb__8iYMLw6Xss"
-width="230" height="200"/>
+width="230" height="210"/>
 - Janne
 - Sami
 - <img src= "./IMG_4246 (2).JPG" width="200"/>
