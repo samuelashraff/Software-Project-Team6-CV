@@ -33,7 +33,7 @@ This team consists of:
 - Samuel, I am a full-time student currently working part-time as a test automation engineer trainee at Profium. For the past two summers I worked as a software engineer trainee at Digital Living International Oy. My free time consists of either going to the gym or relaxing at home.
 <img src="https://media-exp1.licdn.com/dms/image/C4D03AQFNTshnRUfGjA/profile-displayphoto-shrink_400_400/0/1547990427470?e=1639612800&v=beta&t=es2h2XMu00u2vt8lhmTW0TDOUdDo6gb0Sji7d_mY6uw"
 width="230" height="200"/>
-- Juho
+- Juho, medical professional interested in data and bioinformatics and currently working in pharmaceuticals. Putting up a BSc thesis on Machine Learning and Tensor Factorization Machines in Predicting Preclinical Anti-Cancer Drug Combination Synergy. A football and guitar enthusiast.
 - Janne
 - Sami
 - <img src= "./IMG_4246 (2).JPG" width="200"/>
