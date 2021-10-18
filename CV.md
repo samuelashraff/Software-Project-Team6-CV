@@ -34,7 +34,7 @@ width="230" height="200"/> <br/>
 width="230" height="200"/> <br/>
 – Janne, a returning student with solid (full-stack) programming skills and a bit of work experience in the software field. Interested in challenging and purposeful work. <br/>
 <img src="./janne.jpg" width="200"/> <br/>
-– Sami, 3rd year student, continuously learning new. Really motivated and ready to work hard for the project.
+– Sami, 3rd year student, continuously learning new. Really motivated and ready to work hard for the project. <br/>
 <img src= "./IMG_4246 (2).JPG" width="200"/> <br/>
 
 #### Scrum Master
